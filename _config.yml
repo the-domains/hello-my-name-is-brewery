@@ -1,0 +1,23 @@
+name: 'Hello, My Name Is Brewery'
+favicon: null
+layout_spectrum: 0.3061582047957927
+typography_spectrum: 0.5150066593196243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16924558742903173
+  lightness: 0.8122000286821276
+  saturation: 0.18467178056016564
+  rhythmicContrast: 0.4830503626726568
+purpose: []
